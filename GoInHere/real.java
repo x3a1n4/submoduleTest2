@@ -1,0 +1,7 @@
+package GoInHere;
+
+public class real{
+    public static String a(){
+        return "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA";
+    }
+}
